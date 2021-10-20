@@ -19,8 +19,4 @@
 # error 1013 HEAD
 
 # 12:36 test1 branch update
-<<<<<<< HEAD
-# 10/20 pull request
-=======
 
->>>>>>> 2951a0344ec1ef51d37f5231f548d7b932d621de
