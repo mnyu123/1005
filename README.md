@@ -5,26 +5,22 @@
 ## new branch test
 # second try
 ## commit with b1
-=======
+
 # file change
 ## first change
 
 # please help
-<u>markdown</u>
-## please!!! sorucetree!!!!!!
-<ol>
-1.list
-2.list2
-</ol>
 
 ## masterbranch update1013
-=======
 
 # error 1013
 ## 12:35 1013 
-=======
 
 # error 1013 HEAD
 
 # 12:36 test1 branch update
+<<<<<<< HEAD
 # 10/20 pull request
+=======
+
+>>>>>>> 2951a0344ec1ef51d37f5231f548d7b932d621de
