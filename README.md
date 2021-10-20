@@ -1,9 +1,7 @@
 # 1005 retry with source tree
 ## 1005 retry with vs code
 ### why sourcetree error?
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ## new branch test
 # second try
 ## commit with b1
@@ -29,4 +27,4 @@
 # error 1013 HEAD
 
 # 12:36 test1 branch update
->>>>>>> origin/test1
+# 10/20 pull request
